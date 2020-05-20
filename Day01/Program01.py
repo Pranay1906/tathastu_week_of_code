@@ -1,0 +1,6 @@
+name = input('Enter your name:')
+branch = input("Enter your branch")
+gen = input(("Enter your gender:"))
+coll = input("Enter your college:")
+age = int(input('Enter your age:'))
+print((f"namme = {name},\nBranch = {branch},\nGender = {gen},\nCollege = {coll},\nAge = {age}"))
